@@ -11,7 +11,7 @@
 
     <!-- 统一管理版本 -->
     <properties>
-        <netty.version>4.1.31.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <spring.version>4.3.13.RELEASE</spring.version>
         <spring-boot.version>1.5.9.RELEASE</spring-boot.version>
     </properties>
